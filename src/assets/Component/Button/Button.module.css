@@ -1,0 +1,23 @@
+.btn{
+    background: none;
+    padding: 20px 30px;
+    background: green;
+    outline: none;
+    border: none;
+
+}
+.btn:hover{
+    background-color:rebeccapurple;
+    cursor: pointer;
+}
+.error{
+    background: red; 
+    padding: 20px 30px;
+    outline: none;
+    border: none;
+    border-radius:10px ;
+}
+.error:hover{
+    background: blue;
+     cursor: pointer;
+}

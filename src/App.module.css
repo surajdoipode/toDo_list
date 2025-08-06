@@ -1,0 +1,27 @@
+.task-data{
+    border: 2px red solid ;
+    background:#0390fc;
+    padding: 2px;
+    height: 4rem;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    gap: 20px;
+    border-radius:10px ;
+}
+.task-data input{
+    display: flex;
+    flex-direction:column;
+}
+.btn-add{
+    background: yellow;
+}
+    
+.task-style{
+    background: yellow;
+    padding:30px 4rem;
+    display: flex;
+    flex-direction:column ;
+    gap: 20px;
+    /* background: #fff; */
+}
