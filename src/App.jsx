@@ -39,6 +39,7 @@ function App() {
     setdata([...data, newTasks]);
     console.log(newTasks);
   };
+  
   const handleDeleteTask = (e) => {
     console.log("delete czlick");
     console.log(e.target.value);
